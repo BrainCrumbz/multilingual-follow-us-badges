@@ -29,7 +29,7 @@ Plugin has been tested with:
 
 [*WPsite Follow Us Badges*] [wpsite] plugin created by WPsite.
 
-[*Polylang*] [polylang] plugin created by Frédéric Demarle.
+[*Polylang*] [polylang] plugin created by FrÃ©dÃ©ric Demarle.
 
 ##Copyright and license
 
